@@ -15,3 +15,5 @@ Ejecutar **Tools > Fake Interior > Validar XP-25**. La herramienta carga el mate
 - validation.txt: resultado del importador, soporte del shader y variación de color en el centro de cada captura. Una imagen uniforme hace fallar la comprobación.
 
 Las capturas se inspeccionaron visualmente después de la ejecución. La prueba comprueba el render en Editor; no sustituye una compilación de Player.
+
+Se verificó además la apertura y cierre de Play Mode en la escena existente. La revisión independiente está en review.md.

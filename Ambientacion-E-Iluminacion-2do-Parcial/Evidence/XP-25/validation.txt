@@ -1,0 +1,10 @@
+Unity 6000.4.9f1
+Shader: Shader Graphs/FakeInterior; supported=True
+Cubemap: Assets/MichelleRamirez_2doParcial/MichelleRamirez_2doParcial/Galaxy.psd
+material--30: rango=0.9490196
+material-0: rango=0.9490196
+material-30: rango=0.9490196
+depth-0: rango=0.4862745
+depth-0.25: rango=0.490196
+depth-1: rango=0.4627451
+PASS: material importado y renderizado desde tres ángulos y tres profundidades, sin errores de shader.

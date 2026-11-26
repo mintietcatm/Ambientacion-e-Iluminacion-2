@@ -93,13 +93,13 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
     - _ExcludeFromTUAndAA: 0
-    - _Frame_Ambient_Occlussion: 0
-    - _Frame_Metallic: 1.79
-    - _Frame_Smoothness: -1.97
+    - _Frame_Ambient_Occlussion: 1
+    - _Frame_Metallic: 1
+    - _Frame_Smoothness: 0.5
     - _Interior_Depth: 0.25
     - _MaterialID: 1
     - _MaterialTypeMask: 2
-    - _Normal_Strength: -4.04
+    - _Normal_Strength: 1
     - _OpaqueCullMode: 2
     - _PerPixelSorting: 0
     - _RayTracing: 0
@@ -139,7 +139,7 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - _Axis_Rotation: {r: 1, g: 1, b: 1, a: 0}
+    - _Axis_Rotation: {r: 0, g: 1, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _Room_Light_Intensity: {r: 2, g: 2, b: 2, a: 1}
